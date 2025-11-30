@@ -1,5 +1,5 @@
 a=input("Enter your name:")
 print("Hello",a)
-print("Konichiwa")
+print("Konichiwaaaa")
 
 print("Gracius")
